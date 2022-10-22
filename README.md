@@ -6,6 +6,7 @@
 # once the data set is added click on run all button.
 Reference:  
 Convolutional Layers: https://pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/ , https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
+
 LossFunctions: https://keras.io/api/losses/
 
 Max Pooling: https://keras.io/api/layers/pooling_layers/max_pooling2d/ 
